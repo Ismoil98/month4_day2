@@ -220,17 +220,94 @@
 // console.log((a>0 && b>0 && c<=0) || (a>0 && c>0 && b<=0) || (c>0 && b>0 && c<=0));
 
 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
-// Boolean1 
+// Boolean10
+// let a = +prompt('a = ')
+// console.log();
 
+
+
+
+
+// Operators1
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let y = (-b/2) * (Math.pow(a,2)+ Math.pow(b,2))
+// console.log(y);
+
+
+// Operators2
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let d = +prompt('d = ')
+// let y = Math.pow((a+b)/(c+d),2)+Math.pow(b.2);
+// console.log(y);
+
+
+// Operators3
+// let a = +prompt('a = ')
+// let c = +prompt('c = ')
+// let d = +prompt('d = ')
+// let y = 2 * (Math.pow(a,d)+(4*Math.pow(c,2)/3));
+// console.log(y);
+
+
+// Operators4
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let d = +prompt('d = ')
+// let y = 1/Math.pow(a,2)*Math.pow(b/10,3)*Math.pow(c+d,2);
+// console.log(y);
+
+
+// Operators5
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let d = +prompt('d = ')
+// let y = Math.pow((a/b-1)/(c/(d-1)),2);
+// console.log(y);
+
+
+// Operators6
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let d = +prompt('d = ')
+// let y = (a+b)/(c+(d/(a+c)));
+// console.log(y);
+
+
+// Operators7
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let y = Math.sqrt(Math.pow(a+b+c,2)-Math.pow(a-b-c,2));
+// console.log(y);
+
+
+// Operators8
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let y = (Math.pow(a,2)+Math.pow(b,2)+Math.pow(c,2))/a*b*c;
+// console.log(y);
+
+
+// Operators9
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let d = +prompt('d = ')
+// let y = a*Math.pow(d,3)+b*Math.pow(c,2)/2;
+// console.log(y);
+
+
+// Operators10
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// let d = +prompt('d = ')
+// let y = Math.abs(a/b-b/c)+Math.pow(a+c,1/4);
+// console.log(y);
