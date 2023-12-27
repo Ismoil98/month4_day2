@@ -163,4 +163,74 @@
 
 
 
+// Boolean1 
+// let a = +prompt('a = ')
+// console.log(a%2==0);
+
+
+// Boolean2 
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// console.log(a >= 0 || b <= -2);
+
+
+// Boolean3 
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// console.log((a <= b && b <= c) || (a >= b && b >= c) );
+
+
+// Boolean4
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// console.log((a % 2 == 1) && (b % 2 == 1));
+
+
+// Boolean5
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// console.log((a % 2 == 1) || (b % 2 == 1));
+
+
+// Boolean6
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// console.log((a % 2 == 1 && b % 2 == 0) || (a % 2 == 0 && b % 2 == 1));
+
+
+// Boolean7
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// console.log(a>0 && b>0 && c>0);
+
+
+// Boolean8
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// console.log((a>0 && b<=0 && c<=0) || (b>0 && a<=0 && c<=0) || (c>0 && a<=0 && b<=0));
+
+
+// Boolean9
+// let a = +prompt('a = ')
+// let b = +prompt('b = ')
+// let c = +prompt('c = ')
+// console.log((a>0 && b>0 && c<=0) || (a>0 && c>0 && b<=0) || (c>0 && b>0 && c<=0));
+
+
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
+// Boolean1 
 
